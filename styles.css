@@ -258,7 +258,7 @@ input {
     margin-top: 0.8rem;
 }
 
-.input-group small {
+.input-group .help {
     opacity: 0.4;
 }
 
@@ -285,7 +285,7 @@ footer{
 /* Responsive ===================== */
 @media (min-width: 800px) {
     html {
-        fint-size: 87.5%; /* 14px */
+        font-size: 87.5%; /* 14px */
     }
     #balance {
         display: grid;
